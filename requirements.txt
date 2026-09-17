@@ -3,4 +3,3 @@ ultralytics>=8.0
 opencv-python
 numpy
 scipy
-swanlab
